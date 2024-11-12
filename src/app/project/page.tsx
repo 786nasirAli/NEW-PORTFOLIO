@@ -20,14 +20,14 @@ const Project = () => {
         link: 'https://milestone-5-lovat.vercel.app/',
       },
       {
-        title: 'Resume Builder',
+        title: 'Blog page',
         description: 'An interactive tool that enables users to create and format resumes by adding and customizing sections. It showcases my ability to work with dynamic content and handle form submissions.',
-        link: 'https://uzairsmilestone5.vercel.app/',
+        link: 'https://one-page-blog-h6rm.vercel.app/',
       },
       {
         title: 'Countdown Timer',
         description: 'A countdown timer application allowing users to set countdowns for specific events. This project demonstrates my skills in DOM manipulation and timer functions.',
-        link: 'https://count-down-timer-nextjs-project.vercel.app/',
+        link: '',
       },
   
   ];
